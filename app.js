@@ -1,0 +1,17 @@
+const COMMONS=(name,w=1200)=>`https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(name)}?width=${w}`;
+async function imageSearch(img){
+ const exact=img.dataset.file;
+ if(exact){img.src=COMMONS(exact);img.onerror=()=>imageSearchAPI(img);return}
+ imageSearchAPI(img);
+}
+async function imageSearchAPI(img){
+ try{const q=encodeURIComponent(img.dataset.search||img.alt||'Roman Empire');const u=`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${q}&gsrnamespace=6&gsrlimit=1&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*`;const d=await fetch(u).then(r=>r.json());const p=d.query&&d.query.pages?Object.values(d.query.pages)[0]:null;const url=p?.imageinfo?.[0]?.thumburl||p?.imageinfo?.[0]?.url;if(url)img.src=url;else img.remove()}catch(e){img.remove()}}
+document.querySelectorAll('img[data-search],img[data-file]').forEach(imageSearch);
+document.querySelector('#menu')?.addEventListener('click',()=>document.querySelector('#nav')?.classList.toggle('open'));
+const search=document.querySelector('#globalSearch');
+search?.addEventListener('keydown',e=>{if(e.key==='Enter'){const q=e.target.value.trim().toLowerCase();if(q)location.href='search.html?q='+encodeURIComponent(q)}});
+function setupFilters(){const input=document.querySelector('#filterInput');if(!input)return;const rows=[...document.querySelectorAll('[data-filter]')];input.addEventListener('input',()=>{const q=input.value.toLowerCase();rows.forEach(r=>r.style.display=r.dataset.filter.toLowerCase().includes(q)?'':'none')})}
+setupFilters();
+function initMap(){const controls=document.querySelector('#mapControls');const land=document.querySelector('#imperialLand');if(!controls||!land)return;const eras={"27 BC":0,"117 AD":1,"284 AD":2,"395 AD":3,"476 AD":4};const pts=["150,210 250,130 410,120 560,150 690,205 790,250 700,320 570,355 410,350 270,330 175,285","115,185 220,105 405,95 590,115 760,175 875,245 785,325 620,390 420,375 255,350 145,295","125,190 235,110 425,100 610,125 790,185 900,255 810,335 625,395 410,380 250,345 145,295","130,195 235,115 420,105 610,130 790,190 895,255 800,330 610,390 410,375 255,345 150,295","140,205 240,130 420,120 600,145 765,205 850,260 760,320 600,365 420,355 275,330 165,295"];Object.entries(eras).forEach(([name,i])=>{const b=document.createElement('button');b.textContent=name;b.onclick=()=>{land.setAttribute('points',pts[i]);controls.querySelectorAll('button').forEach(x=>x.classList.remove('active'));b.classList.add('active');const e=document.querySelector('#mapEra');if(e)e.textContent=name};controls.appendChild(b)});controls.querySelector('button')?.click();document.querySelectorAll('[data-href]').forEach(el=>el.addEventListener('click',()=>location.href=el.dataset.href));document.querySelectorAll('.province,.battle,.citydot').forEach(el=>el.addEventListener('click',()=>{const info=document.querySelector('#mapInfo');if(info)info.textContent=' · '+(el.dataset.name||'Roman location')+(el.dataset.href?' — opening article':'')}));document.querySelectorAll('.battle').forEach(el=>el.addEventListener('click',()=>{if(el.dataset.href)location.href=el.dataset.href}));document.querySelectorAll('.citydot').forEach(el=>el.addEventListener('dblclick',()=>{if(el.dataset.href)location.href=el.dataset.href}));}
+initMap();
+function initFamily(){document.querySelectorAll('[data-person]').forEach(n=>n.addEventListener('click',()=>{const href=n.dataset.person;if(href)location.href=href}))}initFamily();
