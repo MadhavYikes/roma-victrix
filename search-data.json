@@ -1,0 +1,1514 @@
+[
+  {
+    "title": "Augustus",
+    "url": "augustus.html",
+    "type": "Emperor / claimant",
+    "text": "Founding princeps; reorganized the Roman state after the civil wars."
+  },
+  {
+    "title": "Tiberius",
+    "url": "tiberius.html",
+    "type": "Emperor / claimant",
+    "text": "Second emperor; consolidated Augustus' system and managed difficult frontier and succession politics."
+  },
+  {
+    "title": "Caligula",
+    "url": "caligula.html",
+    "type": "Emperor / claimant",
+    "text": "Third Julio-Claudian emperor; remembered for court politics, projects and a violent end."
+  },
+  {
+    "title": "Claudius",
+    "url": "claudius.html",
+    "type": "Emperor / claimant",
+    "text": "Administrator and conqueror of Britain."
+  },
+  {
+    "title": "Nero",
+    "url": "nero.html",
+    "type": "Emperor / claimant",
+    "text": "Last Julio-Claudian; patron of spectacle and arts, defeated by provincial revolt."
+  },
+  {
+    "title": "Galba",
+    "url": "galba.html",
+    "type": "Emperor / claimant",
+    "text": "First emperor of the civil war of 68–69."
+  },
+  {
+    "title": "Otho",
+    "url": "otho.html",
+    "type": "Emperor / claimant",
+    "text": "Second emperor in the crisis of 69."
+  },
+  {
+    "title": "Vitellius",
+    "url": "vitellius.html",
+    "type": "Emperor / claimant",
+    "text": "Third emperor in the crisis of 69."
+  },
+  {
+    "title": "Vespasian",
+    "url": "vespasian.html",
+    "type": "Emperor / claimant",
+    "text": "Restored stability after civil war and began the Colosseum."
+  },
+  {
+    "title": "Titus",
+    "url": "titus.html",
+    "type": "Emperor / claimant",
+    "text": "Vesuvius, the Colosseum's completion and the conquest of Jerusalem defined his short reign."
+  },
+  {
+    "title": "Domitian",
+    "url": "domitian.html",
+    "type": "Emperor / claimant",
+    "text": "Centralizing Flavian ruler with major frontier wars and a tense relationship with the Senate."
+  },
+  {
+    "title": "Nerva",
+    "url": "nerva.html",
+    "type": "Emperor / claimant",
+    "text": "Elder senator who stabilized the succession after Domitian's assassination."
+  },
+  {
+    "title": "Trajan",
+    "url": "trajan.html",
+    "type": "Emperor / claimant",
+    "text": "Empire's greatest territorial expansion; Dacian and Parthian campaigns."
+  },
+  {
+    "title": "Hadrian",
+    "url": "hadrian.html",
+    "type": "Emperor / claimant",
+    "text": "Frontier consolidation, travel, law and monumental architecture."
+  },
+  {
+    "title": "Antoninus Pius",
+    "url": "antoninus-pius.html",
+    "type": "Emperor / claimant",
+    "text": "Long, comparatively peaceful reign and extensive legal and administrative activity."
+  },
+  {
+    "title": "Lucius Verus",
+    "url": "lucius-verus.html",
+    "type": "Emperor / claimant",
+    "text": "Co-emperor with Marcus Aurelius; eastern war against Parthia."
+  },
+  {
+    "title": "Marcus Aurelius",
+    "url": "marcus-aurelius.html",
+    "type": "Emperor / claimant",
+    "text": "Philosopher-emperor; Marcomannic wars and Antonine plague."
+  },
+  {
+    "title": "Commodus",
+    "url": "commodus.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Marcus Aurelius; ended the Antonine succession and was assassinated."
+  },
+  {
+    "title": "Pertinax",
+    "url": "pertinax.html",
+    "type": "Emperor / claimant",
+    "text": "Short-lived successor to Commodus."
+  },
+  {
+    "title": "Didius Julianus",
+    "url": "didius-julianus.html",
+    "type": "Emperor / claimant",
+    "text": "Bought the imperial office from the Praetorian Guard according to ancient accounts."
+  },
+  {
+    "title": "Septimius Severus",
+    "url": "septimius-severus.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Severan dynasty; civil-war victor and frontier emperor."
+  },
+  {
+    "title": "Caracalla",
+    "url": "caracalla.html",
+    "type": "Emperor / claimant",
+    "text": "Severan ruler associated with the Constitutio Antoniniana and major military campaigns."
+  },
+  {
+    "title": "Geta",
+    "url": "geta.html",
+    "type": "Emperor / claimant",
+    "text": "Younger son of Septimius Severus and co-emperor with Caracalla."
+  },
+  {
+    "title": "Macrinus",
+    "url": "macrinus.html",
+    "type": "Emperor / claimant",
+    "text": "First emperor not from the senatorial elite to reach power without prior senatorial career."
+  },
+  {
+    "title": "Diadumenian",
+    "url": "diadumenian.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Macrinus and briefly co-emperor."
+  },
+  {
+    "title": "Elagabalus",
+    "url": "elagabalus.html",
+    "type": "Emperor / claimant",
+    "text": "Young Severan emperor associated with the cult of Elagabal and intense court politics."
+  },
+  {
+    "title": "Severus Alexander",
+    "url": "severus-alexander.html",
+    "type": "Emperor / claimant",
+    "text": "Last Severan emperor; killed by his own troops during the German war."
+  },
+  {
+    "title": "Maximinus Thrax",
+    "url": "maximinus-thrax.html",
+    "type": "Emperor / claimant",
+    "text": "Soldier-emperor whose accession began the conventional crisis period."
+  },
+  {
+    "title": "Gordian I",
+    "url": "gordian-i.html",
+    "type": "Emperor / claimant",
+    "text": "Elder African senator proclaimed emperor during revolt against Maximinus."
+  },
+  {
+    "title": "Gordian II",
+    "url": "gordian-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Gordian I and co-claimant in Africa."
+  },
+  {
+    "title": "Pupienus",
+    "url": "pupienus.html",
+    "type": "Emperor / claimant",
+    "text": "Senatorial emperor chosen with Balbinus against Maximinus."
+  },
+  {
+    "title": "Balbinus",
+    "url": "balbinus.html",
+    "type": "Emperor / claimant",
+    "text": "Senatorial co-emperor with Pupienus."
+  },
+  {
+    "title": "Gordian III",
+    "url": "gordian-iii.html",
+    "type": "Emperor / claimant",
+    "text": "Young emperor whose reign was dominated by military commanders."
+  },
+  {
+    "title": "Philip the Arab",
+    "url": "philip-the-arab.html",
+    "type": "Emperor / claimant",
+    "text": "Emperor from Arabia; celebrated Rome's millennium in 248."
+  },
+  {
+    "title": "Philip II",
+    "url": "philip-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Philip the Arab and co-emperor."
+  },
+  {
+    "title": "Decius",
+    "url": "decius.html",
+    "type": "Emperor / claimant",
+    "text": "First emperor to die in battle against external enemies; associated with an empire-wide sacrifice edict."
+  },
+  {
+    "title": "Trebonianus Gallus",
+    "url": "trebonianus-gallus.html",
+    "type": "Emperor / claimant",
+    "text": "Succeeded Decius after the disaster at Abrittus."
+  },
+  {
+    "title": "Volusianus",
+    "url": "volusianus.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Trebonianus Gallus and co-emperor."
+  },
+  {
+    "title": "Aemilian",
+    "url": "aemilian.html",
+    "type": "Emperor / claimant",
+    "text": "Victor over the Goths who was proclaimed emperor and rapidly overthrown."
+  },
+  {
+    "title": "Valerian",
+    "url": "valerian.html",
+    "type": "Emperor / claimant",
+    "text": "Senior emperor whose reign was divided with Gallienus; captured by Persia."
+  },
+  {
+    "title": "Gallienus",
+    "url": "gallienus.html",
+    "type": "Emperor / claimant",
+    "text": "Military reformer who restored central authority after Valerian's capture."
+  },
+  {
+    "title": "Claudius II Gothicus",
+    "url": "claudius-ii-gothicus.html",
+    "type": "Emperor / claimant",
+    "text": "Defeated major Gothic forces and briefly restored imperial prestige."
+  },
+  {
+    "title": "Quintillus",
+    "url": "quintillus.html",
+    "type": "Emperor / claimant",
+    "text": "Brother of Claudius II and briefly emperor."
+  },
+  {
+    "title": "Aurelian",
+    "url": "aurelian.html",
+    "type": "Emperor / claimant",
+    "text": "Reunified the empire and built the Aurelian Walls."
+  },
+  {
+    "title": "Tacitus",
+    "url": "tacitus.html",
+    "type": "Emperor / claimant",
+    "text": "Senatorial emperor after Aurelian's death."
+  },
+  {
+    "title": "Florian",
+    "url": "florian.html",
+    "type": "Emperor / claimant",
+    "text": "Brother of Tacitus and very brief emperor."
+  },
+  {
+    "title": "Probus",
+    "url": "probus.html",
+    "type": "Emperor / claimant",
+    "text": "Successful soldier-emperor with extensive frontier victories."
+  },
+  {
+    "title": "Carus",
+    "url": "carus.html",
+    "type": "Emperor / claimant",
+    "text": "Emperor who invaded Persia successfully before dying suddenly."
+  },
+  {
+    "title": "Carinus",
+    "url": "carinus.html",
+    "type": "Emperor / claimant",
+    "text": "Senior son of Carus and western emperor."
+  },
+  {
+    "title": "Numerian",
+    "url": "numerian.html",
+    "type": "Emperor / claimant",
+    "text": "Younger son of Carus and eastern emperor."
+  },
+  {
+    "title": "Diocletian",
+    "url": "diocletian.html",
+    "type": "Emperor / claimant",
+    "text": "Created the Tetrarchy and radically reorganized imperial government."
+  },
+  {
+    "title": "Maximian",
+    "url": "maximian.html",
+    "type": "Emperor / claimant",
+    "text": "Diocletian's colleague in the Tetrarchic system."
+  },
+  {
+    "title": "Constantius Chlorus",
+    "url": "constantius-chlorus.html",
+    "type": "Emperor / claimant",
+    "text": "Augustus of the West after the first Tetrarchic succession."
+  },
+  {
+    "title": "Galerius",
+    "url": "galerius.html",
+    "type": "Emperor / claimant",
+    "text": "Senior Tetrarch who fought Persia and administered the eastern empire."
+  },
+  {
+    "title": "Severus II",
+    "url": "severus-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Tetrarchic Augustus defeated during Maxentius' revolt."
+  },
+  {
+    "title": "Maxentius",
+    "url": "maxentius.html",
+    "type": "Emperor / claimant",
+    "text": "Ruler of Italy and Africa defeated by Constantine at the Milvian Bridge."
+  },
+  {
+    "title": "Maximinus Daia",
+    "url": "maximinus-daia.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern Tetrarch and opponent of Constantine and Licinius."
+  },
+  {
+    "title": "Licinius",
+    "url": "licinius.html",
+    "type": "Emperor / claimant",
+    "text": "Co-emperor with Constantine until defeated in the final civil war."
+  },
+  {
+    "title": "Constantine I",
+    "url": "constantine-i.html",
+    "type": "Emperor / claimant",
+    "text": "Reunified the empire and founded Constantinople; first emperor to favor Christianity openly."
+  },
+  {
+    "title": "Constantine II",
+    "url": "constantine-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Constantine I and western co-emperor."
+  },
+  {
+    "title": "Constantius II",
+    "url": "constantius-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Longest-reigning son of Constantine; fought Persia and multiple western usurpers."
+  },
+  {
+    "title": "Constans",
+    "url": "constans.html",
+    "type": "Emperor / claimant",
+    "text": "Ruler of Italy, Africa and the western Balkans until overthrown."
+  },
+  {
+    "title": "Julian",
+    "url": "julian.html",
+    "type": "Emperor / claimant",
+    "text": "Last pagan emperor; Persian campaign ended in his death."
+  },
+  {
+    "title": "Jovian",
+    "url": "jovian.html",
+    "type": "Emperor / claimant",
+    "text": "Succeeded Julian and negotiated a difficult peace with Persia."
+  },
+  {
+    "title": "Valentinian I",
+    "url": "valentinian-i.html",
+    "type": "Emperor / claimant",
+    "text": "Western emperor known for frontier defense and administrative reform."
+  },
+  {
+    "title": "Valens",
+    "url": "valens.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern emperor killed at Adrianople."
+  },
+  {
+    "title": "Gratian",
+    "url": "gratian.html",
+    "type": "Emperor / claimant",
+    "text": "Western emperor who elevated Theodosius and faced military pressure."
+  },
+  {
+    "title": "Valentinian II",
+    "url": "valentinian-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Child western emperor under powerful generals and court factions."
+  },
+  {
+    "title": "Theodosius I",
+    "url": "theodosius-i.html",
+    "type": "Emperor / claimant",
+    "text": "Last emperor to rule a united Roman Empire; major Christianizing ruler."
+  },
+  {
+    "title": "Arcadius",
+    "url": "arcadius.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern Roman emperor after the permanent division of imperial administration."
+  },
+  {
+    "title": "Honorius",
+    "url": "honorius.html",
+    "type": "Emperor / claimant",
+    "text": "Western emperor during the sack of Rome in 410."
+  },
+  {
+    "title": "Constantine III",
+    "url": "constantine-iii.html",
+    "type": "Emperor / claimant",
+    "text": "British-origin military claimant who controlled much of Gaul and Spain for a time."
+  },
+  {
+    "title": "Constans II",
+    "url": "constans-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Constantine III and co-ruler in the western usurpation."
+  },
+  {
+    "title": "Priscus Attalus",
+    "url": "priscus-attalus.html",
+    "type": "Emperor / claimant",
+    "text": "Twice proclaimed emperor by the Visigoths against Honorius."
+  },
+  {
+    "title": "Jovinus",
+    "url": "jovinus.html",
+    "type": "Emperor / claimant",
+    "text": "Gallic aristocrat proclaimed emperor after Constantine III's fall."
+  },
+  {
+    "title": "Valentinian III",
+    "url": "valentinian-iii.html",
+    "type": "Emperor / claimant",
+    "text": "Long-reigning western emperor dominated by generals and court politics."
+  },
+  {
+    "title": "Petronius Maximus",
+    "url": "petronius-maximus.html",
+    "type": "Emperor / claimant",
+    "text": "Brief western emperor after Valentinian III's assassination."
+  },
+  {
+    "title": "Avitus",
+    "url": "avitus.html",
+    "type": "Emperor / claimant",
+    "text": "Gallic aristocrat elevated as western emperor."
+  },
+  {
+    "title": "Majorian",
+    "url": "majorian.html",
+    "type": "Emperor / claimant",
+    "text": "One of the most capable fifth-century western emperors."
+  },
+  {
+    "title": "Libius Severus",
+    "url": "libius-severus.html",
+    "type": "Emperor / claimant",
+    "text": "Western emperor elevated by Ricimer."
+  },
+  {
+    "title": "Anthemius",
+    "url": "anthemius.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern-backed western emperor and last major attempt at coordinated recovery."
+  },
+  {
+    "title": "Olybrius",
+    "url": "olybrius.html",
+    "type": "Emperor / claimant",
+    "text": "Very brief western emperor during the civil conflict of 472."
+  },
+  {
+    "title": "Glycerius",
+    "url": "glycerius.html",
+    "type": "Emperor / claimant",
+    "text": "Western emperor removed by Julius Nepos."
+  },
+  {
+    "title": "Julius Nepos",
+    "url": "julius-nepos.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern-backed western emperor; deposed in Italy but continued to claim the office from Dalmatia."
+  },
+  {
+    "title": "Romulus Augustulus",
+    "url": "romulus-augustulus.html",
+    "type": "Emperor / claimant",
+    "text": "Last emperor to rule from Italy before Odoacer's deposition."
+  },
+  {
+    "title": "Basiliscus",
+    "url": "basiliscus.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern emperor who briefly overthrew Zeno."
+  },
+  {
+    "title": "Zeno",
+    "url": "zeno.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern emperor during the deposition of Romulus Augustulus and the consolidation of Constantinople's authority."
+  },
+  {
+    "title": "Anastasius I",
+    "url": "anastasius-i.html",
+    "type": "Emperor / claimant",
+    "text": "Financial and administrative reformer."
+  },
+  {
+    "title": "Justin I",
+    "url": "justin-i.html",
+    "type": "Emperor / claimant",
+    "text": "Former soldier who became emperor and prepared the way for Justinian."
+  },
+  {
+    "title": "Justinian I",
+    "url": "justinian-i.html",
+    "type": "Emperor / claimant",
+    "text": "Conquests, codification of Roman law and monumental rebuilding."
+  },
+  {
+    "title": "Justin II",
+    "url": "justin-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Successor of Justinian who faced severe frontier and fiscal pressures."
+  },
+  {
+    "title": "Tiberius II Constantine",
+    "url": "tiberius-ii-constantine.html",
+    "type": "Emperor / claimant",
+    "text": "Military and financial ruler during renewed wars with Persia."
+  },
+  {
+    "title": "Maurice",
+    "url": "maurice.html",
+    "type": "Emperor / claimant",
+    "text": "Military reformer and strategist killed in a soldiers' revolt."
+  },
+  {
+    "title": "Phocas",
+    "url": "phocas.html",
+    "type": "Emperor / claimant",
+    "text": "Usurper whose reign coincided with severe Persian and Balkan crises."
+  },
+  {
+    "title": "Heraclius",
+    "url": "heraclius.html",
+    "type": "Emperor / claimant",
+    "text": "Defeated the Sasanian Empire and presided over profound transformation of Roman government and culture."
+  },
+  {
+    "title": "Constantine IV",
+    "url": "constantine-iv.html",
+    "type": "Emperor / claimant",
+    "text": "Defended Constantinople during the first major Arab siege."
+  },
+  {
+    "title": "Justinian II",
+    "url": "justinian-ii.html",
+    "type": "Emperor / claimant",
+    "text": "First reign, deposition, exile and restoration."
+  },
+  {
+    "title": "Leontios",
+    "url": "leontios.html",
+    "type": "Emperor / claimant",
+    "text": "Former general who overthrew Justinian II."
+  },
+  {
+    "title": "Tiberius III",
+    "url": "tiberius-iii.html",
+    "type": "Emperor / claimant",
+    "text": "Admiral who seized power during the late seventh-century crisis."
+  },
+  {
+    "title": "Philippikos Bardanes",
+    "url": "philippikos-bardanes.html",
+    "type": "Emperor / claimant",
+    "text": "Emperor during the lead-up to the Second Arab siege period."
+  },
+  {
+    "title": "Anastasius II",
+    "url": "anastasius-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Attempted military preparations against the Arab threat."
+  },
+  {
+    "title": "Theodosius III",
+    "url": "theodosius-iii.html",
+    "type": "Emperor / claimant",
+    "text": "Tax official elevated during civil war."
+  },
+  {
+    "title": "Leo III",
+    "url": "leo-iii.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Isaurian dynasty and defender of Constantinople in 717–718."
+  },
+  {
+    "title": "Constantine V",
+    "url": "constantine-v.html",
+    "type": "Emperor / claimant",
+    "text": "Long-reigning military emperor and major iconoclast."
+  },
+  {
+    "title": "Leo IV",
+    "url": "leo-iv.html",
+    "type": "Emperor / claimant",
+    "text": "Short reign between Constantine V and Irene."
+  },
+  {
+    "title": "Constantine VI",
+    "url": "constantine-vi.html",
+    "type": "Emperor / claimant",
+    "text": "Child emperor who eventually ruled under the shadow of Irene."
+  },
+  {
+    "title": "Irene",
+    "url": "irene.html",
+    "type": "Emperor / claimant",
+    "text": "First woman to rule the Roman Empire as sole emperor in her own right."
+  },
+  {
+    "title": "Nikephoros I",
+    "url": "nikephoros-i.html",
+    "type": "Emperor / claimant",
+    "text": "Financial reformer killed during war with Bulgaria."
+  },
+  {
+    "title": "Michael I Rangabe",
+    "url": "michael-i-rangabe.html",
+    "type": "Emperor / claimant",
+    "text": "Short-lived emperor during Bulgarian wars."
+  },
+  {
+    "title": "Leo V",
+    "url": "leo-v.html",
+    "type": "Emperor / claimant",
+    "text": "Military emperor who restored iconoclasm."
+  },
+  {
+    "title": "Michael II",
+    "url": "michael-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Amorian dynasty."
+  },
+  {
+    "title": "Theophilos",
+    "url": "theophilos.html",
+    "type": "Emperor / claimant",
+    "text": "Cultured emperor and defender against the Abbasids."
+  },
+  {
+    "title": "Michael III",
+    "url": "michael-iii.html",
+    "type": "Emperor / claimant",
+    "text": "Last Amorian emperor; missionary expansion and court politics."
+  },
+  {
+    "title": "Basil I",
+    "url": "basil-i.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Macedonian dynasty."
+  },
+  {
+    "title": "Leo VI",
+    "url": "leo-vi.html",
+    "type": "Emperor / claimant",
+    "text": "Lawgiver and literary emperor of the Macedonian dynasty."
+  },
+  {
+    "title": "Alexander",
+    "url": "alexander.html",
+    "type": "Emperor / claimant",
+    "text": "Brother of Leo VI and very brief ruler."
+  },
+  {
+    "title": "Constantine VII",
+    "url": "constantine-vii.html",
+    "type": "Emperor / claimant",
+    "text": "Scholar-emperor associated with major works on administration and ceremony."
+  },
+  {
+    "title": "Romanos I Lekapenos",
+    "url": "romanos-i-lekapenos.html",
+    "type": "Emperor / claimant",
+    "text": "Powerful co-emperor who dominated the government during Constantine VII's youth."
+  },
+  {
+    "title": "Nikephoros II Phokas",
+    "url": "nikephoros-ii-phokas.html",
+    "type": "Emperor / claimant",
+    "text": "Great military commander and emperor who reconquered territory in the East."
+  },
+  {
+    "title": "John I Tzimiskes",
+    "url": "john-i-tzimiskes.html",
+    "type": "Emperor / claimant",
+    "text": "Successful general and emperor who campaigned in the Balkans and East."
+  },
+  {
+    "title": "Basil II",
+    "url": "basil-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Long-reigning emperor who defeated Bulgaria and strengthened central authority."
+  },
+  {
+    "title": "Romanos III Argyros",
+    "url": "romanos-iii-argyros.html",
+    "type": "Emperor / claimant",
+    "text": "Emperor during a period of military and fiscal difficulty."
+  },
+  {
+    "title": "Michael IV",
+    "url": "michael-iv.html",
+    "type": "Emperor / claimant",
+    "text": "Capable administrator and commander during campaigns in Sicily and Bulgaria."
+  },
+  {
+    "title": "Constantine IX Monomachos",
+    "url": "constantine-ix-monomachos.html",
+    "type": "Emperor / claimant",
+    "text": "Emperor during the Great Schism era and renewed frontier pressure."
+  },
+  {
+    "title": "Isaac I Komnenos",
+    "url": "isaac-i-komnenos.html",
+    "type": "Emperor / claimant",
+    "text": "Military reformer who briefly restored army authority."
+  },
+  {
+    "title": "Alexios I Komnenos",
+    "url": "alexios-i-komnenos.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Komnenian dynasty; faced Normans, Pechenegs and the First Crusade."
+  },
+  {
+    "title": "John II Komnenos",
+    "url": "john-ii-komnenos.html",
+    "type": "Emperor / claimant",
+    "text": "Military consolidator and careful administrator."
+  },
+  {
+    "title": "Manuel I Komnenos",
+    "url": "manuel-i-komnenos.html",
+    "type": "Emperor / claimant",
+    "text": "Ambitious ruler whose diplomacy reached across the Mediterranean and Crusader world."
+  },
+  {
+    "title": "Andronikos I Komnenos",
+    "url": "andronikos-i-komnenos.html",
+    "type": "Emperor / claimant",
+    "text": "Populist and violent ruler whose reign ended the Komnenian dynasty."
+  },
+  {
+    "title": "Isaac II Angelos",
+    "url": "isaac-ii-angelos.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Angelos dynasty; reign marked by fiscal and military crisis."
+  },
+  {
+    "title": "Alexios III Angelos",
+    "url": "alexios-iii-angelos.html",
+    "type": "Emperor / claimant",
+    "text": "Ruler whose reign ended with the Fourth Crusade's intervention."
+  },
+  {
+    "title": "Alexios IV Angelos",
+    "url": "alexios-iv-angelos.html",
+    "type": "Emperor / claimant",
+    "text": "Co-emperor who promised payments to the Fourth Crusade."
+  },
+  {
+    "title": "Alexios V Doukas",
+    "url": "alexios-v-doukas.html",
+    "type": "Emperor / claimant",
+    "text": "Last emperor before the Latin conquest of Constantinople."
+  },
+  {
+    "title": "Theodore I Laskaris",
+    "url": "theodore-i-laskaris.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Nicaean Roman state after the Fourth Crusade."
+  },
+  {
+    "title": "John III Doukas Vatatzes",
+    "url": "john-iii-doukas-vatatzes.html",
+    "type": "Emperor / claimant",
+    "text": "Expanded Nicaean power and prepared the recovery of Constantinople."
+  },
+  {
+    "title": "Theodore II Laskaris",
+    "url": "theodore-ii-laskaris.html",
+    "type": "Emperor / claimant",
+    "text": "Scholar-emperor and son of John III."
+  },
+  {
+    "title": "Michael VIII Palaiologos",
+    "url": "michael-viii-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Recovered Constantinople in 1261 and founded the Palaiologan dynasty."
+  },
+  {
+    "title": "Andronikos II Palaiologos",
+    "url": "andronikos-ii-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Long reign during economic and military contraction."
+  },
+  {
+    "title": "Andronikos III Palaiologos",
+    "url": "andronikos-iii-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Reformer and successful civil-war victor."
+  },
+  {
+    "title": "John V Palaiologos",
+    "url": "john-v-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Long reign during Ottoman expansion and repeated civil wars."
+  },
+  {
+    "title": "John VI Kantakouzenos",
+    "url": "john-vi-kantakouzenos.html",
+    "type": "Emperor / claimant",
+    "text": "Civil-war claimant and co-emperor alongside John V."
+  },
+  {
+    "title": "Manuel II Palaiologos",
+    "url": "manuel-ii-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Diplomat who toured western Europe seeking aid against the Ottomans."
+  },
+  {
+    "title": "John VIII Palaiologos",
+    "url": "john-viii-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Last major Roman emperor before the fall of Constantinople."
+  },
+  {
+    "title": "Constantine XI Palaiologos",
+    "url": "constantine-xi-palaiologos.html",
+    "type": "Emperor / claimant",
+    "text": "Last Roman emperor; died defending Constantinople."
+  },
+  {
+    "title": "Clodius Macer",
+    "url": "clodius-macer.html",
+    "type": "Emperor / claimant",
+    "text": "Legate in Africa who revolted during Nero's final year."
+  },
+  {
+    "title": "Aulus Vitellius Germanicus?",
+    "url": "aulus-vitellius-germanicus.html",
+    "type": "Emperor / claimant",
+    "text": "Alias preserved for source indexing; main profile is Vitellius."
+  },
+  {
+    "title": "Avidius Cassius",
+    "url": "avidius-cassius.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern general proclaimed emperor after claiming Marcus Aurelius had died."
+  },
+  {
+    "title": "Pescennius Niger",
+    "url": "pescennius-niger.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern governor and rival to Septimius Severus."
+  },
+  {
+    "title": "Clodius Albinus",
+    "url": "clodius-albinus.html",
+    "type": "Emperor / claimant",
+    "text": "British governor and rival to Septimius Severus."
+  },
+  {
+    "title": "Uranius",
+    "url": "uranius.html",
+    "type": "Emperor / claimant",
+    "text": "Eastern claimant known mainly from coinage and fragmentary evidence."
+  },
+  {
+    "title": "Ingenuus",
+    "url": "ingenuus.html",
+    "type": "Emperor / claimant",
+    "text": "Danubian military commander who revolted against Gallienus."
+  },
+  {
+    "title": "Regalianus",
+    "url": "regalianus.html",
+    "type": "Emperor / claimant",
+    "text": "Danubian claimant known from coins and literary fragments."
+  },
+  {
+    "title": "Postumus",
+    "url": "postumus.html",
+    "type": "Emperor / claimant",
+    "text": "Founder of the Gallic Empire in the western provinces."
+  },
+  {
+    "title": "Laelianus",
+    "url": "laelianus.html",
+    "type": "Emperor / claimant",
+    "text": "Brief Gallic claimant after Postumus."
+  },
+  {
+    "title": "Marius",
+    "url": "marius.html",
+    "type": "Emperor / claimant",
+    "text": "Very brief Gallic emperor between Laelianus and Victorinus."
+  },
+  {
+    "title": "Victorinus",
+    "url": "victorinus.html",
+    "type": "Emperor / claimant",
+    "text": "Gallic emperor who maintained the western breakaway state."
+  },
+  {
+    "title": "Tetricus I",
+    "url": "tetricus-i.html",
+    "type": "Emperor / claimant",
+    "text": "Last Gallic emperor, defeated by Aurelian."
+  },
+  {
+    "title": "Tetricus II",
+    "url": "tetricus-ii.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Tetricus I and junior Gallic emperor."
+  },
+  {
+    "title": "Vaballathus",
+    "url": "vaballathus.html",
+    "type": "Emperor / claimant",
+    "text": "Palmyrene ruler associated with Zenobia's eastern breakaway state."
+  },
+  {
+    "title": "Zenobia",
+    "url": "zenobia.html",
+    "type": "Emperor / claimant",
+    "text": "Palmyrene ruler who challenged Aurelian's authority."
+  },
+  {
+    "title": "Aureolus",
+    "url": "aureolus.html",
+    "type": "Emperor / claimant",
+    "text": "Military commander who revolted against Gallienus and Claudius II."
+  },
+  {
+    "title": "Domitianus",
+    "url": "domitianus.html",
+    "type": "Emperor / claimant",
+    "text": "Short-lived claimant in Egypt during Aurelian's reign."
+  },
+  {
+    "title": "Firmus",
+    "url": "firmus.html",
+    "type": "Emperor / claimant",
+    "text": "Egyptian rebel associated with the suppression of Palmyrene resistance."
+  },
+  {
+    "title": "Proculus",
+    "url": "proculus.html",
+    "type": "Emperor / claimant",
+    "text": "Rebel claimant during Probus' reign."
+  },
+  {
+    "title": "Bonosus",
+    "url": "bonosus.html",
+    "type": "Emperor / claimant",
+    "text": "Rhine commander who revolted against Probus."
+  },
+  {
+    "title": "Amandus",
+    "url": "amandus.html",
+    "type": "Emperor / claimant",
+    "text": "Bagaudic claimant in Gaul."
+  },
+  {
+    "title": "Aelianus",
+    "url": "aelianus.html",
+    "type": "Emperor / claimant",
+    "text": "Bagaudic claimant associated with Amandus."
+  },
+  {
+    "title": "Carausius",
+    "url": "carausius.html",
+    "type": "Emperor / claimant",
+    "text": "Naval commander who ruled Britain and parts of Gaul."
+  },
+  {
+    "title": "Allectus",
+    "url": "allectus.html",
+    "type": "Emperor / claimant",
+    "text": "Succeeded Carausius in Britain before Constantius Chlorus reconquered the province."
+  },
+  {
+    "title": "Domitius Domitianus",
+    "url": "domitius-domitianus.html",
+    "type": "Emperor / claimant",
+    "text": "Egyptian rebel against Diocletian."
+  },
+  {
+    "title": "Achilleus",
+    "url": "achilleus.html",
+    "type": "Emperor / claimant",
+    "text": "Egyptian rebel who continued resistance after Domitius Domitianus."
+  },
+  {
+    "title": "Lucius Domitius Alexander",
+    "url": "lucius-domitius-alexander.html",
+    "type": "Emperor / claimant",
+    "text": "African governor who revolted against Maxentius."
+  },
+  {
+    "title": "Maxentius' rival Constantine?",
+    "url": "maxentius-rival-constantine.html",
+    "type": "Emperor / claimant",
+    "text": "Cross-reference only; main profile is Constantine I."
+  },
+  {
+    "title": "Magnentius",
+    "url": "magnentius.html",
+    "type": "Emperor / claimant",
+    "text": "Usurper who defeated Constans and controlled the West."
+  },
+  {
+    "title": "Decentius",
+    "url": "decentius.html",
+    "type": "Emperor / claimant",
+    "text": "Brother of Magnentius and Caesar in the western revolt."
+  },
+  {
+    "title": "Nepotian",
+    "url": "nepotian.html",
+    "type": "Emperor / claimant",
+    "text": "Brief urban claimant in Rome during Magnentius' revolt."
+  },
+  {
+    "title": "Vetranio",
+    "url": "vetranio.html",
+    "type": "Emperor / claimant",
+    "text": "Balkan military commander briefly elevated as emperor."
+  },
+  {
+    "title": "Silvanus",
+    "url": "silvanus.html",
+    "type": "Emperor / claimant",
+    "text": "Frankish-born general who was proclaimed emperor at Cologne."
+  },
+  {
+    "title": "Procopius",
+    "url": "procopius.html",
+    "type": "Emperor / claimant",
+    "text": "Relative of Julian who revolted against Valens in Constantinople."
+  },
+  {
+    "title": "Marcellus",
+    "url": "marcellus.html",
+    "type": "Emperor / claimant",
+    "text": "Brief claimant associated with Procopius' revolt."
+  },
+  {
+    "title": "Magnus Maximus",
+    "url": "magnus-maximus.html",
+    "type": "Emperor / claimant",
+    "text": "British commander who became western emperor and was defeated by Theodosius I."
+  },
+  {
+    "title": "Eugenius",
+    "url": "eugenius.html",
+    "type": "Emperor / claimant",
+    "text": "Civilian usurper backed by Arbogast and defeated by Theodosius I."
+  },
+  {
+    "title": "Arbogast",
+    "url": "arbogast.html",
+    "type": "Emperor / claimant",
+    "text": "General who elevated Eugenius against Theodosius I."
+  },
+  {
+    "title": "Gildo",
+    "url": "gildo.html",
+    "type": "Emperor / claimant",
+    "text": "African commander whose revolt threatened the grain supply to Rome."
+  },
+  {
+    "title": "Marcus",
+    "url": "marcus.html",
+    "type": "Emperor / claimant",
+    "text": "One of the short-lived emperors elevated in Britain."
+  },
+  {
+    "title": "Sebastianus",
+    "url": "sebastianus.html",
+    "type": "Emperor / claimant",
+    "text": "Co-claimant associated with Jovinus in Gaul."
+  },
+  {
+    "title": "Heraclianus",
+    "url": "heraclianus.html",
+    "type": "Emperor / claimant",
+    "text": "African military commander who revolted against Honorius."
+  },
+  {
+    "title": "Maximus",
+    "url": "maximus.html",
+    "type": "Emperor / claimant",
+    "text": "Son of Gerontius and claimant in Hispania."
+  },
+  {
+    "title": "Ioannes",
+    "url": "ioannes.html",
+    "type": "Emperor / claimant",
+    "text": "Senior official who seized the western throne after Honorius' death."
+  },
+  {
+    "title": "Carthage",
+    "url": "enemy-carthage.html",
+    "type": "Enemy",
+    "text": "Roman–Carthaginian struggle for Mediterranean supremacy."
+  },
+  {
+    "title": "Hannibal Barca",
+    "url": "enemy-hannibal-barca.html",
+    "type": "Enemy",
+    "text": "The commander whose invasion of Italy produced Cannae and the greatest Roman military crisis of the Republic."
+  },
+  {
+    "title": "Macedon",
+    "url": "enemy-macedon.html",
+    "type": "Enemy",
+    "text": "Rome's wars with the Antigonid kingdom reshaped the eastern Mediterranean."
+  },
+  {
+    "title": "Seleucid Empire",
+    "url": "enemy-seleucid-empire.html",
+    "type": "Enemy",
+    "text": "Rome's intervention in the Greek East brought it into conflict with the Seleucid monarchy."
+  },
+  {
+    "title": "Mithridates VI",
+    "url": "enemy-mithridates-vi.html",
+    "type": "Enemy",
+    "text": "A major eastern opponent whose wars forced Rome to reorganize Asia Minor."
+  },
+  {
+    "title": "Parthian Empire",
+    "url": "enemy-parthian-empire.html",
+    "type": "Enemy",
+    "text": "Rome's principal eastern rival before the Sasanian dynasty."
+  },
+  {
+    "title": "Sasanian Empire",
+    "url": "enemy-sasanian-empire.html",
+    "type": "Enemy",
+    "text": "The great eastern rival of the late Roman Empire from the third to seventh centuries."
+  },
+  {
+    "title": "Dacian Kingdom",
+    "url": "enemy-dacian-kingdom.html",
+    "type": "Enemy",
+    "text": "Decebalus' kingdom was conquered by Trajan after two major wars."
+  },
+  {
+    "title": "Vercingetorix",
+    "url": "enemy-vercingetorix.html",
+    "type": "Enemy",
+    "text": "United major Gallic forces against Caesar and surrendered after the siege of Alesia."
+  },
+  {
+    "title": "Arminius",
+    "url": "enemy-arminius.html",
+    "type": "Enemy",
+    "text": "Germanic commander associated with the defeat of Varus in the Teutoburg Forest."
+  },
+  {
+    "title": "Boudica",
+    "url": "enemy-boudica.html",
+    "type": "Enemy",
+    "text": "Led the major revolt of 60/61 against Roman rule in Britain."
+  },
+  {
+    "title": "Palmyrene Empire",
+    "url": "enemy-palmyrene-empire.html",
+    "type": "Enemy",
+    "text": "Zenobia and Vaballathus challenged Roman authority before Aurelian's reconquest."
+  },
+  {
+    "title": "Goths",
+    "url": "enemy-goths.html",
+    "type": "Enemy",
+    "text": "Repeatedly fought Rome from the third century through late antiquity."
+  },
+  {
+    "title": "Alaric",
+    "url": "enemy-alaric.html",
+    "type": "Enemy",
+    "text": "Led the Visigoths into Italy and the sack of Rome in 410."
+  },
+  {
+    "title": "Vandals",
+    "url": "enemy-vandals.html",
+    "type": "Enemy",
+    "text": "Captured North Africa and sacked Rome in 455."
+  },
+  {
+    "title": "Attila",
+    "url": "enemy-attila.html",
+    "type": "Enemy",
+    "text": "Led the Hunnic confederation against Roman territory in the fifth century."
+  },
+  {
+    "title": "Franks",
+    "url": "enemy-franks.html",
+    "type": "Enemy",
+    "text": "Expanded in northern Gaul and became central to the post-Roman West."
+  },
+  {
+    "title": "Alamanni",
+    "url": "enemy-alamanni.html",
+    "type": "Enemy",
+    "text": "Frequent opponents of Roman armies along the upper Rhine."
+  },
+  {
+    "title": "Sarmatians",
+    "url": "enemy-sarmatians.html",
+    "type": "Enemy",
+    "text": "Mounted peoples repeatedly involved in Roman frontier warfare."
+  },
+  {
+    "title": "Persian Armenia",
+    "url": "enemy-persian-armenia.html",
+    "type": "Enemy",
+    "text": "Armenia was a strategic buffer contested by Rome and Persia."
+  },
+  {
+    "title": "Cannae",
+    "url": "battle-cannae.html",
+    "type": "Battle",
+    "text": "Hannibal's annihilating victory over a larger Roman army; a classic study in double envelopment."
+  },
+  {
+    "title": "Zama",
+    "url": "battle-zama.html",
+    "type": "Battle",
+    "text": "Scipio Africanus defeated Hannibal and ended Carthage's ability to contest Roman supremacy."
+  },
+  {
+    "title": "Pharsalus",
+    "url": "battle-pharsalus.html",
+    "type": "Battle",
+    "text": "Caesar defeated Pompey's main army in Greece."
+  },
+  {
+    "title": "Actium",
+    "url": "battle-actium.html",
+    "type": "Battle",
+    "text": "Octavian's forces defeated Antony and Cleopatra, clearing the way for the Principate."
+  },
+  {
+    "title": "Teutoburg Forest",
+    "url": "battle-teutoburg-forest.html",
+    "type": "Battle",
+    "text": "Arminius' coalition destroyed three Roman legions under Varus."
+  },
+  {
+    "title": "Masada",
+    "url": "battle-masada.html",
+    "type": "Battle",
+    "text": "Roman siege and capture of the mountain fortress traditionally associated with the final stage of the revolt."
+  },
+  {
+    "title": "Adrianople",
+    "url": "battle-adrianople.html",
+    "type": "Battle",
+    "text": "Gothic forces destroyed Valens' army and killed the eastern emperor."
+  },
+  {
+    "title": "Milvian Bridge",
+    "url": "battle-milvian-bridge.html",
+    "type": "Battle",
+    "text": "Constantine defeated Maxentius and secured control of Italy."
+  },
+  {
+    "title": "Naissus",
+    "url": "battle-naissus.html",
+    "type": "Battle",
+    "text": "Claudius II's victory over major Gothic forces."
+  },
+  {
+    "title": "Carrhae",
+    "url": "battle-carrhae.html",
+    "type": "Battle",
+    "text": "Parthian forces destroyed Crassus' army in Mesopotamia."
+  },
+  {
+    "title": "Constantinople 717–718",
+    "url": "battle-constantinople-717-718.html",
+    "type": "Battle",
+    "text": "Leo III's defense prevented the Umayyad capture of the imperial capital."
+  },
+  {
+    "title": "Manzikert",
+    "url": "battle-manzikert.html",
+    "type": "Battle",
+    "text": "Roman defeat that accelerated the loss of Anatolian territory to the Seljuks."
+  },
+  {
+    "title": "Constantinople 1453",
+    "url": "battle-constantinople-1453.html",
+    "type": "Battle",
+    "text": "The Ottoman capture of Constantinople ended the Roman imperial state."
+  },
+  {
+    "title": "Roman Senate",
+    "url": "senate.html",
+    "type": "Subject",
+    "text": "The Senate evolved from a republican governing body into an aristocratic advisory institution within the imperial monarchy."
+  },
+  {
+    "title": "Roman Magistracies",
+    "url": "magistrates.html",
+    "type": "Subject",
+    "text": "Consuls, praetors, quaestors, aediles and tribunes retained formal offices whose meanings changed under the emperors."
+  },
+  {
+    "title": "Roman Law",
+    "url": "law.html",
+    "type": "Subject",
+    "text": "Roman law developed through statutes, senatorial decisions, imperial constitutions, juristic interpretation and later codification."
+  },
+  {
+    "title": "Roman Citizenship",
+    "url": "citizenship.html",
+    "type": "Subject",
+    "text": "Citizenship was a legal status that expanded from a privileged Italian identity into a near-universal status for free inhabitants of the empire."
+  },
+  {
+    "title": "Slavery",
+    "url": "slavery.html",
+    "type": "Subject",
+    "text": "Slavery was embedded in Roman households, agriculture, mining, administration and commerce."
+  },
+  {
+    "title": "Women in Roman Society",
+    "url": "women.html",
+    "type": "Subject",
+    "text": "Roman women could exercise significant influence through family, property, religion and imperial households despite formal political exclusions."
+  },
+  {
+    "title": "Roman Family",
+    "url": "family.html",
+    "type": "Subject",
+    "text": "Household structure, marriage, adoption, inheritance and patronage were central to Roman social organization."
+  },
+  {
+    "title": "Roman Legion",
+    "url": "legion.html",
+    "type": "Subject",
+    "text": "The legion was the best-known heavy infantry formation of the imperial Roman army."
+  },
+  {
+    "title": "Praetorian Guard",
+    "url": "praetorian-guard.html",
+    "type": "Subject",
+    "text": "The emperor's elite guard in Rome became an important political actor in imperial succession."
+  },
+  {
+    "title": "Roman Auxiliaries",
+    "url": "auxilia.html",
+    "type": "Subject",
+    "text": "Auxiliary forces supplied infantry, cavalry, archers and specialists recruited across the empire."
+  },
+  {
+    "title": "Roman Navy",
+    "url": "roman-navy.html",
+    "type": "Subject",
+    "text": "Fleets secured sea lanes, transported armies and protected the empire's major maritime frontiers."
+  },
+  {
+    "title": "Roman Religion",
+    "url": "roman-religion.html",
+    "type": "Subject",
+    "text": "Roman religion was a public system of ritual, priesthoods, sacrifice and relationships with gods, ancestors and the state."
+  },
+  {
+    "title": "Imperial Cult",
+    "url": "imperial-cult.html",
+    "type": "Subject",
+    "text": "Imperial cult connected loyalty, civic ritual and the religious honor of emperors and their families."
+  },
+  {
+    "title": "Christianity in the Roman Empire",
+    "url": "christianity.html",
+    "type": "Subject",
+    "text": "Christian communities developed within the empire and eventually became central to imperial religious policy."
+  },
+  {
+    "title": "Roman Economy",
+    "url": "roman-economy.html",
+    "type": "Subject",
+    "text": "Agriculture, taxation, slavery, trade, mining, coinage and state expenditure formed an integrated imperial economy."
+  },
+  {
+    "title": "Roman Coinage",
+    "url": "coinage.html",
+    "type": "Subject",
+    "text": "Coins carried portraits, titles, religious symbols and political messages across the empire."
+  },
+  {
+    "title": "Roman Roads",
+    "url": "roads.html",
+    "type": "Subject",
+    "text": "Engineered roads moved armies, officials, goods and information across the empire."
+  },
+  {
+    "title": "Roman Aqueducts",
+    "url": "aqueducts.html",
+    "type": "Subject",
+    "text": "Aqueduct systems supplied urban communities with water for fountains, baths, industry and private use."
+  },
+  {
+    "title": "Roman Baths",
+    "url": "baths.html",
+    "type": "Subject",
+    "text": "Bathing was a major social institution combining hygiene, exercise, leisure and networking."
+  },
+  {
+    "title": "Gladiators",
+    "url": "gladiators.html",
+    "type": "Subject",
+    "text": "Gladiatorial combat was a highly organized form of public spectacle tied to elite patronage and imperial politics."
+  },
+  {
+    "title": "Colosseum",
+    "url": "colosseum.html",
+    "type": "Subject",
+    "text": "The Flavian amphitheatre became Rome's greatest permanent arena and a symbol of imperial spectacle."
+  },
+  {
+    "title": "Pantheon",
+    "url": "pantheon.html",
+    "type": "Subject",
+    "text": "The Pantheon is a monumental Roman building famous for its concrete dome and oculus."
+  },
+  {
+    "title": "Roman Forum",
+    "url": "roman-forum.html",
+    "type": "Subject",
+    "text": "The Forum was the political, religious and commercial heart of Rome for centuries."
+  },
+  {
+    "title": "Pompeii",
+    "url": "pompeii.html",
+    "type": "Subject",
+    "text": "The Vesuvian eruption of 79 AD preserved streets, homes, shops, public buildings and wall paintings."
+  },
+  {
+    "title": "Latin",
+    "url": "latin.html",
+    "type": "Subject",
+    "text": "Latin was the principal administrative and literary language of the western Roman world."
+  },
+  {
+    "title": "Roman Art",
+    "url": "roman-art.html",
+    "type": "Subject",
+    "text": "Roman visual culture includes portrait sculpture, relief, fresco, mosaic, painting, gems and monumental art."
+  },
+  {
+    "title": "Roman Literature",
+    "url": "roman-literature.html",
+    "type": "Subject",
+    "text": "Roman literature developed in Latin and Greek across poetry, history, rhetoric, philosophy, biography and technical writing."
+  },
+  {
+    "title": "Roman Medicine",
+    "url": "roman-medicine.html",
+    "type": "Subject",
+    "text": "Roman medicine combined Greek theory, practical surgery, military medicine, pharmacology and local traditions."
+  },
+  {
+    "title": "Roman Provinces",
+    "url": "provinces.html",
+    "type": "Subject",
+    "text": "The empire was administered through provinces whose boundaries and legal status changed over time."
+  },
+  {
+    "title": "Roman Frontiers",
+    "url": "frontiers.html",
+    "type": "Subject",
+    "text": "The Rhine, Danube, Hadrian's Wall, eastern deserts and other frontiers combined armies, forts, roads and diplomacy."
+  }
+]
